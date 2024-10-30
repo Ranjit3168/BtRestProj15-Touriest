@@ -10,7 +10,5 @@ public class TouriestNotFoundException extends RuntimeException {
 		super(msg);
 	}
 	
-	public void m2() {
-		System.out.println("Bug 124 completed");
-	}
+
 }
